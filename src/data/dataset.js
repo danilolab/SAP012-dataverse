@@ -1,378 +1,361 @@
 export default [
   {
-    "id": "ada-lovelace",
-    "name": "Ada Lovelace",
-    "shortDescription": "Pionera en la programación, primera programadora de la historia.",
-    "description": "Una visionaria matemática británica del siglo XIX, es aclamada como la primera programadora de la historia. Su colaboración con Charles Babbage en la creación de la Máquina Analítica la llevó a desarrollar algoritmos, incluyendo el famoso \"algoritmo de Bernoulli\", destinados a ser procesados por una máquina. Su visión pionera la convirtió en una figura fundamental en la informática y la inteligencia artificial. Lovelace demostró que las computadoras podían ir más allá de simples cálculos matemáticos, anticipando un mundo donde la programación sería esencial en la resolución de problemas complejos, dejando una huella imborrable en la ciencia y la tecnología.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/ada-lovelace.jpg",
+    "id": "admin-banco-dados",
+    "name": "Pessoa Administradora de Banco de Dados",
+    "shortDescription": "Responsável por gerenciar e otimizar bancos de dados, garantindo integridade e segurança dos dados.",
+    "description": "A pessoa administradora de Banco de Dados é crucial para o funcionamento eficiente de sistemas que dependem de armazenamento e recuperação de dados. Esta profissional gerencia e ajusta bancos de dados, implementa medidas de segurança e otimiza o desempenho. Trabalhando em colaboração com desenvolvedores e analistas, o Administrador de Banco de Dados desempenha um papel essencial na garantia de que as informações vitais estejam acessíveis e seguras. Sua expertise é vital para organizações que dependem de dados para impulsionar operações e tomar decisões informadas.",
+    "imageUrl": "https://github.com/FabineSpecian/SAP012-dataverse/blob/main/src/Carreiras/Adm%20banco%20de%20dados.jpg?raw=true",
     "facts": {
-      "yearOfBirth": "1815",
-      "yearOfDeath": "1852",
-      "birthPlace": "Londres, Reino Unido",
-      "mainField": "Ciencia de la Computación"
+      "formacaoSugerida": "Ciência da Computação, Sistemas de Informação",
+      "techSkills": "SQL, Administração de Bancos de Dados",
+      "softSkills": "Comunicação eficaz, Resolução de problemas",
+      "mediaSalarialJr": "R$ 6.000 (Estimativa até 2022)"
     },
-    "extraInfo": {
-      "imageSource": "https://www.bing.com/images/create/genera-una-imagen-de-ada-lovelace2c-la-primera-prog/650a1eff8ff04b88833d5cdef0309441"
-    }
+
   },
+
   {
-    "id": "emmy-noether",
-    "name": "Emmy Noether",
-    "shortDescription": "Matemática destacada, teorema fundamental en álgebra abstracta.",
-    "description": "Una brillante matemática alemana, revolucionó la física teórica con sus contribuciones al teorema de conservación de la energía y el teorema de Noether, fundamentales en la teoría de la relatividad y la mecánica cuántica. A pesar de los obstáculos que enfrentó como mujer en la academia, sus investigaciones en álgebra abstracta y teoría de grupos son fundamentales en la física moderna. Su capacidad para unificar conceptos matemáticos y físicos marcó un hito en la historia de la ciencia, allanando el camino para futuras generaciones de científicas.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/emmy-noether.jpg",
+    "id": "analista-bi",
+    "name": "Analista de Business Intelligence (BI)",
+    "shortDescription": "Responsável por analisar dados, criar relatórios e visualizações para apoiar decisões de negócios.",
+    "description": "A pessoa Analista de Business Intelligence desempenha um papel muito importante na interpretação e análise de dados para orientar as decisões estratégicas das organizações. Utilizando ferramentas como SQL, Power BI e Tableau, a pessoa Analista de Business Intelligence transforma dados brutos em insights acionáveis. Colaborando estreitamente com equipes de negócios, a Analista de BI contribui para a eficiência operacional e identifica oportunidades de melhoria. Sua capacidade de traduzir dados complexos em informações compreensíveis é essencial para o sucesso das empresas modernas.",
+    "imageUrl": "https://github.com/FabineSpecian/SAP012-dataverse/blob/main/src/Carreiras/Analista%20de%20Business%20Intelligence.jpg?raw=true",
     "facts": {
-      "yearOfBirth": "1882",
-      "yearOfDeath": "1935",
-      "birthPlace": "Erlangen, Alemania",
-      "mainField": "Matemáticas"
+      "formacaoSugerida": "Estatística, Matemática",
+      "techSkills": "SQL, Power BI, Tableau",
+      "softSkills": "Análise crítica, Colaboração",
+      "mediaSalarialJr": "R$ 5.500 (Estimativa até 2022)"
     },
-    "extraInfo": {
-      "imageSource": "https://www.bing.com/images/create/create-an-image-of-of-a-german-woman2c-a-pioneering/6510ddb1e8254b928b8f8f1d5e95fea4"
-    }
+
   },
+
   {
-    "id": "hypatia-de-alejandria",
-    "name": "Hypatia de Alejandría",
-    "shortDescription": "Matemática y filósofa en la antigua Alejandría.",
-    "description": "Filósofa y matemática en la antigua Alejandría, desafió las normas de género de su época al destacar en una sociedad dominada por hombres. Su legado incluye importantes contribuciones a la geometría y la astronomía, así como su destacado papel como maestra y defensora del conocimiento en una época de agitación política. Hypatia demostró que las mujeres podían sobresalir en campos intelectuales y su valentía al mantener sus creencias filosóficas la convierte en un símbolo de resistencia y sabiduría en la historia de la ciencia.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/hypatia-de-alejandria.jpg",
+    "id": "analista-infra-ti",
+    "name": "Analista de Infraestrutura de TI",
+    "shortDescription": "Responsável por gerenciar e manter a infraestrutura de TI, garantindo sua disponibilidade e segurança.",
+    "description": "A pessoa Analista de Infraestrutura de TI tem papel fundamental para manter a infraestrutura tecnológica operacional, garantindo que sistemas e redes estejam disponíveis e seguros. Esta profissional administra servidores, implementa soluções de segurança e colabora com equipes de suporte. Sua habilidade em resolver problemas rapidamente e manter a estabilidade operacional é crucial para o sucesso das operações de TI. A pessoa Analista de Infraestrutura também desempenha um papel vital na implementação de tecnologias emergentes e na garantia da escalabilidade dos sistemas.",
+    "imageUrl": "https://github.com/FabineSpecian/SAP012-dataverse/blob/main/src/Carreiras/Analista%20de%20Infraestrutura%20de%20TI.jpg?raw=true",
     "facts": {
-      "yearOfBirth": "circa 360",
-      "yearOfDeath": "415",
-      "birthPlace": "Alejandría, Egipto",
-      "mainField": "Matemáticas, Filosofía"
+      "formacaoSugerida": "Redes de Computadores, Engenharia de Redes",
+      "techSkills": "Administração de servidores, Redes",
+      "softSkills": "Resolução de problemas, Colaboração",
+      "mediaSalarialJr": "R$ 5.000 (Estimativa até 2022)"
     },
-    "extraInfo": {
-      "imageSource": "https://www.bing.com/images/create/create-a-vivid-digital-artwork-or-painting-that-de/6510df0ebe1a4807af22175452761e1a"
-    }
+
   },
+
   {
-    "id": "marjorie-lee-browne",
-    "name": "Marjorie Lee Browne",
-    "shortDescription": "Matemática, contribuyó a la teoría de números.",
-    "description": "Matemática estadounidense, destacó en una época en la que las mujeres afroamericanas enfrentaban múltiples barreras en la educación superior. No solo obtuvo su doctorado en matemáticas, sino que también se convirtió en una destacada educadora, promoviendo la diversidad en las ciencias matemáticas y desafiando la discriminación racial y de género. Su compromiso con la educación y su capacidad para inspirar a futuras generaciones la convierten en un modelo a seguir para las mujeres en la ciencia, dejando una huella perdurable en la historia académica.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/marjorie-lee-browne.jpg",
+    "id": "analista-qualidade",
+    "name": "Analista de Qualidade de Software",
+    "shortDescription": "Responsável por testar e garantir a qualidade de software, identificando e corrigindo defeitos.",
+    "description": "A pessoa Analista de Qualidade de Software desempenha um papel muito importante para a entrega de produtos de software de alta qualidade. Esta profissional é responsável por planejar, executar e automatizar testes para identificar defeitos e garantir a funcionalidade desejada. Colaborando estreitamente com desenvolvedores, o Analista de Qualidade contribui para a melhoria contínua do processo de desenvolvimento. Sua atenção aos detalhes e habilidades de resolução de problemas são essenciais para garantir a satisfação do cliente e a confiabilidade dos produtos.",
+    "imageUrl": "https://github.com/FabineSpecian/SAP012-dataverse/blob/main/src/Carreiras/Analista%20de%20Qualidade%20de%20Software.jpg?raw=true",
     "facts": {
-      "yearOfBirth": "1914",
-      "yearOfDeath": "1979",
-      "birthPlace": "Memphis, Estados Unidos",
-      "mainField": "Matemáticas"
+      "formacaoSugerida": "Engenharia de Software, Ciência da Computação",
+      "techSkills": "Testes de software, Automação",
+      "softSkills": "Atenção aos detalhes, Trabalho em equipe",
+      "mediaSalarialJr": "R$ 4.800 (Estimativa até 2022)"
     },
-    "extraInfo": {
-      "imageSource": "https://www.bing.com/images/create/design-an-inspiring-and-historically-accurate-imag/6510df7e7bb745f69d67f695441607a8"
-    }
+
   },
+
   {
-    "id": "shakuntala-devi",
-    "name": "Shakuntala Devi",
-    "shortDescription": "Matemática prodigio, conocida como la 'Calculadora Humana'.",
-    "description": "Conocida como \"la bruja de las matemáticas\" de la India, dejó una marca indeleble en el mundo de los números. Su capacidad mental asombrosa la llevó a resolver complejos cálculos matemáticos mentalmente en cuestión de segundos, estableciendo récords mundiales. Además de su talento innato, Devi promovió activamente la educación matemática y luchó por la igualdad de género en un país donde las mujeres enfrentaban desafíos en la ciencia y la educación. Su legado destaca el poder de la mente humana y la importancia de la igualdad de oportunidades en la ciencia.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/shakuntala-devi.jpg",
+    "id": "analista-seguranca-info",
+    "name": "Analista de Segurança da Informação",
+    "shortDescription": "Responsável por proteger sistemas e dados contra ameaças, implementando medidas de segurança.",
+    "description": "A pessoa Analista de Segurança da Informação desempenha um papel muito importante na proteção dos ativos de informação de uma determinada organização. Esta profissional é responsável pelas seguintes atividades: avaliar riscos, implementar medidas de segurança e responder a incidentes cibernéticos. Colaborando com equipes multidisciplinares, a pessoa Analista de Segurança da Informação contribui para a confidencialidade, integridade e disponibilidade dos dados. Sua expertise é essencial em um cenário de ameaças em constante evolução, garantindo que a organização esteja protegida contra ataques.",
+    "imageUrl": "https://github.com/FabineSpecian/SAP012-dataverse/blob/main/src/Carreiras/Analista%20de%20Seguran%C3%A7a%20da%20Informa%C3%A7%C3%A3o.jpg?raw=true",
     "facts": {
-      "yearOfBirth": "1929",
-      "yearOfDeath": "2013",
-      "birthPlace": "Bangalore, India",
-      "mainField": "Matemáticas"
+      "formacaoSugerida": "Segurança da Informação, Ciência da Computação",
+      "techSkills": "Firewalls, Criptografia",
+      "softSkills": "Pensamento analítico, Ética",
+      "mediaSalarialJr": "R$ 6.200 (Estimativa até 2022)"
     },
-    "extraInfo": {
-      "imageSource": "https://www.bing.com/images/create/indian-woman-writing-math-problems-in-a-blackbard-/6510e19f3db54e14b365b7e8dc5045f6"
-    }
+
   },
+
   {
-    "id": "sofia-kovalevskaya",
-    "name": "Sofia Kovalevskaya",
-    "shortDescription": "Matemática y escritora, contribuyó a la teoría de funciones.",
-    "description": "Matemática rusa del siglo XIX, dejó una marca indeleble en la ciencia del siglo XIX al desafiar las barreras de género. Como matemática rusa, superó las restricciones sociales de su época para convertirse en la primera mujer en obtener un doctorado en matemáticas en Europa. Sus contribuciones a la teoría de las ecuaciones diferenciales y la mecánica revolucionaron la disciplina, abriendo nuevas perspectivas en el análisis matemático. Su destacada membresía en la Academia de Ciencias de Suecia marcó un hito en la historia de las mujeres en la ciencia.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/sofia-kovalevskaya.jpg",
+    "id": "analista-sistemas",
+    "name": "Analista de Sistemas",
+    "shortDescription": "Responsável por analisar requisitos e projetar soluções de software, garantindo a eficiência dos sistemas.",
+    "description": "A pessoa Analista de Sistemas desempenha um papel fundamental na análise e concepção de soluções de software. Esta profissional colabora com stakeholders para entender requisitos, planejar e projetar sistemas eficientes. Utilizando suas habilidades analíticas, o Analista de Sistemas traduz necessidades de negócios em soluções técnicas. Sua atuação é essencial desde a concepção até a implementação, garantindo que os sistemas atendam aos requisitos e contribuam para os objetivos da organização. Com uma abordagem centrada no usuário, a Analista de Sistemas desempenha um papel crucial na entrega de soluções de software eficazes.",
+    "imageUrl": "https://github.com/FabineSpecian/SAP012-dataverse/blob/main/src/Carreiras/Analista%20de%20Sistemas.jpg?raw=true",
     "facts": {
-      "yearOfBirth": "1850",
-      "yearOfDeath": "1891",
-      "birthPlace": "Moscú, Rusia",
-      "mainField": "Matemáticas"
+      "formacaoSugerida": "Engenharia de Software, Ciência da Computação",
+      "techSkills": "Análise de sistemas, Programação",
+      "softSkills": "Comunicação, Resolução de problemas",
+      "mediaSalarialJr": "R$ 5.200 (Estimativa até 2022)"
     },
-    "extraInfo": {
-      "imageSource": "https://www.bing.com/images/create/indian-woman-writing-math-problems-in-a-blackbard-/6510e19f3db54e14b365b7e8dc5045f6"
-    }
+
   },
+
   {
-    "id": "yoko-shimomura",
-    "name": "Yoko Shimomura",
-    "shortDescription": "Compositora de música, destacada en la industria de los videojuegos.",
-    "description": "Compositora japonesa, es una figura destacada en la ciencia de la música y el arte sonoro. Aunque no se dedica a la ciencia en el sentido tradicional, su trabajo en la composición musical ha requerido un profundo entendimiento de la teoría musical y la tecnología de audio. Ha contribuido de manera significativa a la industria de los videojuegos, componiendo icónicas bandas sonoras que han enriquecido la experiencia de juego. Su éxito en un campo donde las mujeres estaban subrepresentadas la convierte en un modelo a seguir, incluso en campos no convencionales como la composición musical.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/yoko-shimomura.jpg",
+    "id": "dev-full-stack",
+    "name": "Pessoa Desenvolvedora Full Stack",
+    "shortDescription": "Responsável por desenvolver tanto o front-end quanto o back-end de aplicações web, garantindo sua funcionalidade.",
+    "description": "A pessoa Desenvolvedora Full Stack desempenha um papel crucial na criação de aplicações web abrangentes. Esta profissional é versada no desenvolvimento tanto do front-end quanto do back-end, proporcionando uma compreensão completa do ciclo de vida do desenvolvimento de software. Utilizando tecnologias como JavaScript, Node.js e HTML/CSS, a Desenvolvedora Full Stack contribui para a experiência do usuário e a funcionalidade robusta das aplicações. Sua habilidade em colaborar eficientemente com equipes multidisciplinares é essencial para o sucesso na entrega de soluções web integradas.",
+    "imageUrl": "https://github.com/FabineSpecian/SAP012-dataverse/blob/main/src/Carreiras/Desenvolvedora%20Full%20Stack.jpg?raw=true",
     "facts": {
-      "yearOfBirth": "1967",
-      "birthPlace": "Hyogo, Japón",
-      "mainField": "Composición Musical, Video Juegos"
+      "formacaoSugerida": "Engenharia de Software, Ciência da Computação",
+      "techSkills": "JavaScript, Node.js, HTML, CSS",
+      "softSkills": "Trabalho em equipe, Pensamento analítico",
+      "mediaSalarialJr": "R$ 6.000 (Estimativa até 2022)"
     },
-    "extraInfo": {
-      "imageSource": "https://www.bing.com/images/create/yoko-shimomura-making-music-for-a-video-game-in-19/6510e40dd1eb45d0906e8c1f4bb601d3"
-    }
+
   },
+
   {
-    "id": "maryam-mirzakhani",
-    "name": "Maryam Mirzakhani",
-    "shortDescription": "Matemática, ganadora del Premio Fields.",
-    "description": "Matemática iraní, hizo historia al convertirse en la primera mujer en ganar la Medalla Fields, el premio más prestigioso en matemáticas. Sus investigaciones en la geometría de superficies y la teoría de las superficies de Riemann han tenido un impacto duradero en la matemática pura. A lo largo de su carrera, Mirzakhani inspiró a muchas mujeres a perseguir carreras en ciencia y matemáticas, derribando las barreras de género. Su enfoque innovador y su capacidad para resolver problemas complejos la convierten en un modelo a seguir para la comunidad científica y en un símbolo de la excelencia matemática.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/maryam-mirzakhani.jpg",
+    "id": "dev-mobile",
+    "name": "Pessoa Desenvolvedora Mobile (iOS/Android)",
+    "shortDescription": "Responsável por desenvolver aplicativos móveis para iOS e/ou Android, garantindo performance e usabilidade.",
+    "description": "A pessoa Desenvolvedora Mobile desempenha um papel vital na criação de aplicativos móveis inovadores e funcionais. Esta profissional é especializada no desenvolvimento para plataformas iOS e/ou Android, utilizando linguagens como Swift (iOS) e Kotlin/Java (Android). Colaborando com designers e equipes de produto, a pessoa Desenvolvedora Mobile contribui para uma experiência de usuário envolvente e de alta qualidade. Sua habilidade em acompanhar as tendências móveis e adotar as melhores práticas de desenvolvimento é essencial para o sucesso na criação de aplicativos bem-sucedidos.",
+    "imageUrl": "https://github.com/FabineSpecian/SAP012-dataverse/blob/main/src/Carreiras/Desenvolvedora%20Mobile.jpg?raw=true",
     "facts": {
-      "yearOfBirth": "1977",
-      "yearOfDeath": "2017",
-      "birthPlace": "Teherán, Irán",
-      "mainField": "Matemáticas"
+      "formacaoSugerida": "Engenharia de Software, Ciência da Computação",
+      "techSkills": "Swift (iOS), Kotlin/Java (Android)",
+      "softSkills": "Criatividade, Resolução de problemas",
+      "mediaSalarialJr": "R$ 6.200 (Estimativa até 2022)"
     },
-    "extraInfo": {
-      "imageSource": "https://chalkdustmagazine.com/features/mathematics-maryam-mirzakhani/"
-    }
+
   },
+
   {
-    "id": "adele-goldberg",
-    "name": "Adele Goldberg",
-    "shortDescription": "Informática pionera, co-creadora del lenguaje de programación Smalltalk.",
-    "description": "Informática estadounidense reconocida por su influyente trabajo en la investigación y desarrollo de la programación orientada a objetos. Su contribución más destacada es la creación del lenguaje de programación Smalltalk, que revolucionó la forma en que se desarrollan software y sistemas informáticos. Goldberg ha sido una defensora incansable de la usabilidad y la accesibilidad en la informática, asegurando que las aplicaciones informáticas sean más amigables para los usuarios. Su trabajo ha allanado el camino para una programación más intuitiva y eficiente, y su legado perdura en la industria de la tecnología.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/adele-goldberg.jpg",
+    "id": "dev-backend",
+    "name": "Pessoa Desenvolvedora Back-end",
+    "shortDescription": "Responsável por desenvolver a lógica e a infraestrutura dos servidores web, garantindo a funcionalidade das aplicações.",
+    "description": "A pessoa Desenvolvedora Web Back-end desempenha um papel muito importante na construção da lógica e da infraestrutura que impulsionam as aplicações web.Esta profissional é especializada em linguagens e frameworks back - end, como Node.js, Python e Java.Colaborando estreitamente com desenvolvedores front - end, a pessoa Desenvolvedora Web Back - end contribui para a criação de aplicações robustas e escaláveis.Sua habilidade em gerenciar dados, implementar segurança e otimizar o desempenho é essencial para o sucesso na entrega de soluções web eficientes.",
+    "imageUrl": "https://github.com/FabineSpecian/SAP012-dataverse/blob/main/src/Carreiras/Desenvolvedora%20Back%20end.jpg?raw=true",
     "facts": {
-      "yearOfBirth": "1945",
-      "birthPlace": "Chicago, Estados Unidos",
-      "mainField": "Ciencias de la Computación"
+      "formacaoSugerida": "Engenharia de Software, Ciência da Computação",
+      "techSkills": "Node.js, Python, Java",
+      "softSkills": "Colaboração, Pensamento analítico",
+      "mediaSalarialJr": "R$ 5.800 (Estimativa até 2022)"
     },
-    "extraInfo": {
-      "imageSource": "https://pionerasinformaticas.ujaen.es/en/computer-women-pioneers/adele-goldberg-en"
-    }
+
   },
+
   {
-    "id": "barbara-liskov",
-    "name": "Barbara Liskov",
-    "shortDescription": "Científica de la computación, pionera en programación orientada a objetos.",
-    "description": "Pionera de la informática, es conocida por su trabajo en la programación y la arquitectura de sistemas distribuidos. Fue la primera mujer en obtener un doctorado en ciencias de la computación en el Instituto de Tecnología de Stanford y desarrolló el lenguaje de programación CLU, que estableció fundamentos para la programación orientada a objetos. Liskov ha dejado una marca indeleble en la industria de la tecnología al liderar avances en sistemas de almacenamiento y seguridad informática. Su enfoque en la fiabilidad y la robustez ha influido en el diseño de sistemas críticos en todo el mundo.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/barbara-liskov.jpg",
+    "id": "dev-web-frontend",
+    "name": "Pessoa Desenvolvedora Web Front-end",
+    "shortDescription": "Responsável por desenvolver a interface e interatividade das aplicações web, proporcionando uma experiência de usuário excepcional.",
+    "description": "A pessoa Desenvolvedora Web Front- end é crucial para criar interfaces web envolventes e de alta qualidade.Esta profissional é especializado em linguagens e frameworks front - end, como HTML, CSS, JavaScript e React.Colaborando estreitamente com designers de UX / UI, a pessoa Desenvolvedor Web Front - end transforma conceitos de design em experiências interativas.Sua habilidade em otimizar o desempenho, garantir a compatibilidade entre navegadores e adotar as melhores práticas de acessibilidade contribui para o sucesso na criação de aplicações web modernas.",
+    "imageUrl": "https://github.com/FabineSpecian/SAP012-dataverse/blob/main/src/Carreiras/Desenvolvedora%20Front%20end.jpg?raw=true",
     "facts": {
-      "yearOfBirth": "1939",
-      "birthPlace": "Los Angeles, Estados Unidos",
-      "mainField": "Ciencia de la Computación"
+      "formacaoSugerida": "Design de Interface, Engenharia de Software",
+      "techSkills": "HTML, CSS, JavaScript, React",
+      "softSkills": "Criatividade, Trabalho em equipe",
+      "mediaSalarialJr": "R$ 5.600 (Estimativa até 2022)"
     },
-    "extraInfo": {
-      "imageSource": "https://medium.com/a-computer-of-ones-own/barbara-liskov-inventor-of-abstract-data-types-9f8908fdcf86"
-    }
+
   },
+
   {
-    "id": "grace-hopper",
-    "name": "Grace Hopper",
-    "shortDescription": "Científica de la computación, creadora del primer compilador.",
-    "description": "Una de las pioneras de la informática, es famosa por su contribución al desarrollo del primer compilador y al lenguaje de programación COBOL. Además, desafió los estereotipos de género en la década de 1940 al unirse a la Marina de los Estados Unidos y convertirse en la primera programadora de la computadora Harvard Mark I. Su legado abarca la creación de conceptos cruciales como la \"depuración de software\" y su influencia en el desarrollo de la informática moderna, estableciendo estándares para la programación de alto nivel y la innovación tecnológica.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/grace-hopper.jpg",
+    "id": "designer-ux",
+    "name": "Designer de Experiência do Usuário (UX)",
+    "shortDescription": "Responsável por projetar interfaces intuitivas e experiências de usuário excepcionais para produtos digitais.",
+    "description": "A pessoa Designer de Experiência do Usuário(UX) desempenha um papel muito importante na criação de produtos digitais centrados no usuário. Esta profissional colabora com equipes multidisciplinares para compreender as necessidades dos usuários, criando wireframes, protótipos e designs visuais. Utilizando sua expertise em psicologia do usuário e design de interação, a pessoa Designer de UX busca proporcionar experiências intuitivas e agradáveis. Sua habilidade em equilibrar estética e funcionalidade é fundamental para o sucesso na criação de interfaces que encantam e cativam os usuários.",
+    "imageUrl": "https://github.com/FabineSpecian/SAP012-dataverse/blob/main/src/Carreiras/Design%20de%20%20Experi%C3%AAncia%20do%20Usu%C3%A1rio%20(UX).jpg?raw=true",
     "facts": {
-      "yearOfBirth": "1906",
-      "yearOfDeath": "1992",
-      "birthPlace": "Nueva York, Estados Unidos",
-      "mainField": "Ciencia de la Computación"
+      "formacaoSugerida": "Design de Interface, Design Gráfico",
+      "techSkills": "Wireframing, Prototipagem, Ferramentas de design",
+      "softSkills": "Empatia, Criatividade",
+      "mediaSalarialJr": "R$ 5.500 (Estimativa até 2022)"
     },
-    "extraInfo": {
-      "imageSource": "https://photos.com/featured/grace-hopper-with-early-computer-bettmann.html"
-    }
+
   },
+
   {
-    "id": "margaret-hamilton",
-    "name": "Margaret Hamilton",
-    "shortDescription": "Científica de la computación, lideró desarrollo de software para Apollo 11.",
-    "description": "Destacada científica de la computación que desempeñó un papel fundamental en el programa Apollo de la NASA. Fue directora de la División de Ingeniería de Software en el Laboratorio de Instrumentación del MIT, donde desarrolló el concepto de \"ingeniería de software\". Su liderazgo en el desarrollo del software de vuelo para las misiones Apollo fue fundamental para el éxito de la llegada del hombre a la Luna. Hamilton es un ejemplo de cómo la tecnología y la ciencia pueden alcanzar logros extraordinarios cuando se combinan con un enfoque innovador y una visión audaz.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/margaret-hamilton.jpg",
+    "id": "designer-ui",
+    "name": "Designer de Interface do Usuário (UI)",
+    "shortDescription": "Responsável por criar layouts visuais atraentes e elementos de interface para produtos digitais.",
+    "description": "A pessoa Designer de Interface do Usuário(UI) é muito importante para transformar conceitos de design em interfaces visualmente atraentes e funcionais para o usuário.Esta profissional concentra- se na estética, escolhendo cores, tipografia e elementos visuais para criar uma experiência coesa. Colaborando estreitamente com Designers de UX e pessoas Desenvolvedoras, a pessoa Designer de UI busca equilibrar a beleza visual com a usabilidade prática.Sua habilidade em traduzir conceitos criativos em elementos visuais funcionais contribui para a criação de produtos digitais visualmente impactantes.",
+    "imageUrl": "https://github.com/FabineSpecian/SAP012-dataverse/blob/main/src/Carreiras/Designer%20de%20Interface%20do%20Usu%C3%A1rio%20(UI).jpg?raw=true",
     "facts": {
-      "yearOfBirth": "1936",
-      "birthPlace": "Paoli, Indiana, Estados Unidos",
-      "mainField": "Ciencia de la Computación"
+      "formacaoSugerida": "Design de Interface, Design Gráfico",
+      "techSkills": "Design visual, Ferramentas de design, Prototipagem",
+      "softSkills": "Criatividade, Colaboração",
+      "mediaSalarialJr": "R$ 5.200 (Estimativa até 2022)"
     },
-    "extraInfo": {
-      "imageSource": "https://odetta.ai/blogs/margaret-hamilton-the-first-software-engineer"
-    }
+
   },
+
   {
-    "id": "radia-perlman",
-    "name": "Radia Perlman",
-    "shortDescription": "Ingeniera de redes, inventora del algoritmo Spanning Tree.",
-    "description": "Científica de la computación estadounidense, ha dejado una marca indeleble en el mundo de las redes informáticas y la seguridad. Conocida como \"la madre de Internet\", su invención del algoritmo Spanning Tree Protocol (STP) revolucionó la conectividad de redes y sentó las bases para la infraestructura de Internet moderna. A pesar de operar en un campo dominado por hombres, Perlman ha demostrado que las mujeres pueden liderar avances tecnológicos vitales. Su compromiso con la resiliencia de las redes y la ciberseguridad ha influido en la estabilidad y confiabilidad de la comunicación en línea.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/radia-perlman.jpg",
+    "id": "engenheira-firmware",
+    "name": "Pessoa Engenheira de Firmware",
+    "shortDescription": "Responsável por desenvolver e otimizar o firmware incorporado em dispositivos eletrônicos.",
+    "description": "A pessoa Engenheira de Firmware é especializada no desenvolvimento de software de baixo nível incorporado em dispositivos eletrônicos. Utilizando linguagens como C e Assembly, programa firmware que controla hardware específico. Colaborando estreitamente com pessoas engenheiras de hardware, contribui para o projeto e otimização de sistemas embarcados. Sua habilidade em lidar com restrições de recursos e assegurar a estabilidade do firmware são cruciais para o funcionamento confiável de dispositivos eletrônicos. Com expertise em programação embarcada, a pessoa Engenheira de Firmware desempenha um papel essencial na integração harmoniosa entre hardware e software.",
+    "imageUrl": "https://github.com/FabineSpecian/SAP012-dataverse/blob/main/src/Carreiras/Engenheira%20de%20Firmware.jpg?raw=true",
     "facts": {
-      "yearOfBirth": "1951",
-      "birthPlace": "Portsmouth, Estados Unidos",
-      "mainField": "Ciencia de la Computación"
+      "formacaoSugerida": "Engenharia Elétrica, Engenharia de Computação",
+      "techSkills": "Programação C, Assembly, Sistemas Embarcados",
+      "softSkills": "Resolução de problemas, Pensamento analítico",
+      "mediaSalarialJr": "R$ 6.000 (Estimativa até 2022)"
     },
-    "extraInfo": {
-      "imageSource": "https://hackaday.com/2018/05/29/spanning-the-tree-dr-radia-perlman-untangling-networks/"
-    }
+
   },
+
   {
-    "id": "shafi-goldwasser",
-    "name": "Shafi Goldwasser",
-    "shortDescription": "Científica de la computación, ganadora del Premio Turing.",
-    "description": "Es una destacada criptógrafa y científica de la computación que ha contribuido significativamente a la teoría de la computación y la seguridad de la información. Su trabajo en criptografía de probabilidad y complejidad computacional ha sentado las bases para la seguridad en línea y la privacidad de datos en un mundo cada vez más digitalizado. Goldwasser es un ejemplo de cómo la ciencia de la computación puede abordar desafíos contemporáneos y proteger la información en la era de la información.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/shafi-goldwasser.jpg",
+    "id": "engenheira-ia",
+    "name": "Pessoa Engenheira de Inteligência Artificial",
+    "shortDescription": "Responsável por desenvolver soluções utilizando algoritmos de inteligência artificial e aprendizado de máquina.",
+    "description": "A pessoa Engenheira de Inteligência Artificial (IA) desempenha um papel crucial na criação de sistemas e aplicações inteligentes. Trabalhando com algoritmos de IA, aprendizado de máquina e processamento de linguagem natural, desenvolve soluções inovadoras. Colaborando com cientistas de dados e desenvolvedores, a pessoa Engenheira de IA contribui para a criação de sistemas autônomos e preditivos. Sua habilidade em compreender e aplicar conceitos avançados de IA é essencial para impulsionar a inovação em diversos setores, destacando-se como peça fundamental na vanguarda da tecnologia inteligente.",
+    "imageUrl": "https://github.com/FabineSpecian/SAP012-dataverse/blob/main/src/Carreiras/Engenheira%20de%20Intelig%C3%AAncia%20Artificial.jpg?raw=true",
     "facts": {
-      "yearOfBirth": "1958",
-      "birthPlace": "Nueva York, Estados Unidos",
-      "mainField": "Ciencia de la Computación"
+      "formacaoSugerida": "Ciência da Computação, Engenharia de Computação",
+      "techSkills": "Machine Learning, Deep Learning, NLP",
+      "softSkills": "Pensamento analítico, Inovação",
+      "mediaSalarialJr": "R$ 6.500 (Estimativa até 2022)"
     },
-    "extraInfo": {
-      "imageSource": "https://www.jahresbericht2019.unibe.ch/successes_2019/einstein_lectures/index_eng.html"
-    }
+
   },
+
   {
-    "id": "chien-shiung-wu",
-    "name": "Chien-Shiung Wu",
-    "shortDescription": "Física experimental, contribuyó a la física nuclear.",
-    "description": "Física experimental de origen chino, desafiando los prejuicios de género y nacionalidad, realizó experimentos fundamentales en física de partículas y contribuyó significativamente a la comprensión de la desintegración beta. Su famoso experimento \"Wu\" refutó la paridad en la física de partículas, lo que cambió la forma en que los científicos comprenden las fuerzas fundamentales de la naturaleza. Wu demostró que el talento y la perseverancia pueden superar cualquier barrera, y su legado sigue siendo un faro de inspiración para científicas en todo el mundo.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/chien-shiung-wu.jpg",
+    "id": "engenheira-ml",
+    "name": "Pessoa Engenheira de Machine Learning",
+    "shortDescription": "Responsável por desenvolver e implementar modelos de aprendizado de máquina para resolver problemas complexos.",
+    "description": "A pessoa Engenheira de Machine Learning desempenha um papel muito importante na aplicação prática de algoritmos de aprendizado de máquina. Esta profissional colabora com cientistas de dados para as seguintes atividades: desenvolver, treinar e implementar modelos preditivos. Trabalhando em projetos diversos, a pessoa Engenheira de ML é fundamental para solucionar problemas complexos e extrair insights valiosos dos dados. Sua habilidade em escolher e ajustar modelos, bem como otimizar o desempenho, é vital para o sucesso na aplicação de soluções de ML em diferentes domínios.",
+    "imageUrl": "https://github.com/FabineSpecian/SAP012-dataverse/blob/main/src/Carreiras/Engenheira%20de%20Machine%20Learning.jpg?raw=true",
     "facts": {
-      "yearOfBirth": "1912",
-      "yearOfDeath": "1997",
-      "birthPlace": "Liuhe, Taicang, China",
-      "mainField": "Física"
+      "formacaoSugerida": "Ciência da Computação, Engenharia de Computação",
+      "techSkills": "Machine Learning, Python, Frameworks de ML",
+      "softSkills": "Pensamento analítico, Resolução de problemas",
+      "mediaSalarialJr": "R$ 6.200 (Estimativa até 2022)"
     },
-    "extraInfo": {
-      "imageSource": "https://www.thoughtco.com/chien-shiung-wu-biography-3530366"
-    }
+
   },
+
   {
-    "id": "hedy-lamarr",
-    "name": "Hedy Lamarr",
-    "shortDescription": "Actriz e inventora, contribuyó al desarrollo de la tecnología de espectro ensanchado.",
-    "description": "Actriz austroamericana y científica, fue una mente brillante en la intersección de la tecnología y el entretenimiento. Junto con el compositor George Antheil, inventó un sistema de comunicación secreta durante la Segunda Guerra Mundial que sentó las bases para la tecnología de espectro ensanchado y la comunicación inalámbrica moderna. Lamarr demostró que las mujeres pueden destacar tanto en el cine como en la ciencia, y su legado como inventora ha sido fundamental para el desarrollo de la tecnología de comunicación inalámbrica que usamos en la actualidad.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/hedy-lamarr.jpg",
+    "id": "engenheira-vr-ar",
+    "name": "Pessoa Engenheira de Realidade Virtual (VR) / Aumentada (AR)",
+    "shortDescription": "Responsável por desenvolver experiências imersivas utilizando tecnologias de VR e AR.",
+    "description": "A pessoa Engenheira de Realidade Virtual (VR) / Aumentada (AR) é especializada em criar experiências imersivas e interativas. Utilizando tecnologias como Unity e Unreal Engine, desenvolve aplicações de VR / AR. Colaborando com designers e artistas, contribui para a criação de ambientes virtuais envolventes. Sua habilidade em otimizar o desempenho, garantir interatividade e implementar conceitos inovadores é essencial para o sucesso na criação de experiências impactantes. A pessoa Engenheira de VR / AR destaca-se como peça fundamental na vanguarda da tecnologia, moldando o futuro das interações virtuais.",
+    "imageUrl": "https://github.com/FabineSpecian/SAP012-dataverse/blob/main/src/Carreiras/Engenheira%20de%20Realidade%20Virtual%20(VR)%20%20Aumentada%20(AR).jpg?raw=true",
     "facts": {
-      "yearOfBirth": "1914",
-      "yearOfDeath": "2000",
-      "birthPlace": "Viena, Austria",
-      "mainField": "Actuación, Física"
+      "formacaoSugerida": "Design de Jogos, Engenharia de Computação",
+      "techSkills": "Unity, Unreal Engine, Desenvolvimento VR/AR",
+      "softSkills": "Criatividade, Colaboração",
+      "mediaSalarialJr": "R$ 6.500 (Estimativa até 2022)"
     },
-    "extraInfo": {
-      "imageSource": "https://www.sparkfun.com/news/6147"
-    }
+
   },
+
   {
-    "id": "maria-goeppert-mayer",
-    "name": "Maria Goeppert Mayer",
-    "shortDescription": "Física teórica, ganadora del Premio Nobel de Física.",
-    "description": "Física teórica alemana-estadounidense, dejó una profunda huella en la física nuclear y la mecánica cuántica. Fue la segunda mujer en recibir el Premio Nobel de Física y su trabajo pionero en la estructura de capas nucleares revolucionó nuestra comprensión de los núcleos atómicos. A pesar de las barreras de género en la academia, su dedicación y talento la llevaron a contribuir significativamente a la teoría nuclear, abriendo el camino para futuras investigadoras en un campo dominado por hombres. Maria Goeppert Mayer es un ejemplo inspirador de excelencia científica y perseverancia en la búsqueda del conocimiento.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/maria-goeppert-mayer.jpg",
+    "id": "engenheira-software",
+    "name": "Pessoa Engenheira de Software",
+    "shortDescription": "Responsável por projetar, desenvolver e testar software, garantindo qualidade e eficiência.",
+    "description": "A pessoa Engenheira de Software desempenha um papel central no ciclo de vida do desenvolvimento de software. Projeta, desenvolve e testa aplicações, garantindo qualidade e eficiência. Colaborando com equipes multidisciplinares, contribui para a criação de produtos robustos e inovadores. Sua habilidade em compreender requisitos complexos, escolher as melhores tecnologias e seguir boas práticas de desenvolvimento é vital para o sucesso na entrega de soluções de software escaláveis. A pessoa Engenheira de Software destaca-se como elemento essencial na busca incessante pela excelência no cenário tecnológico contemporâneo.",
+    "imageUrl": "https://github.com/FabineSpecian/SAP012-dataverse/blob/main/src/Carreiras/Engenheira%20de%20Software.jpg?raw=true",
     "facts": {
-      "yearOfBirth": "1906",
-      "yearOfDeath": "1972",
-      "birthPlace": "Kattowitz, Alemania",
-      "mainField": "Física"
+      "formacaoSugerida": "Engenharia de Software, Ciência da Computação",
+      "techSkills": "Programação, Desenvolvimento de Software",
+      "softSkills": "Trabalho em equipe, Comunicação",
+      "mediaSalarialJr": "R$ 6.000 (Estimativa até 2022)"
     },
-    "extraInfo": {
-      "imageSource": "https://www.wsemexhibit.org/maria-goeppert-mayer.html"
-    }
+
   },
+
   {
-    "id": "lise-meitner",
-    "name": "Lise Meitner",
-    "shortDescription": "Física nuclear, contribuyó a la teoría de la fisión nuclear.",
-    "description": "Física austriaca-sueca, dejó un legado imborrable en la física nuclear y la radioquímica. A pesar de enfrentar obstáculos de género en una era dominada por hombres, colaboró con Otto Hahn en el descubrimiento de la fisión nuclear, un avance revolucionario. Aunque no compartió el Premio Nobel por este logro, su contribución fue crucial para comprender la energía nuclear y la física de partículas. Su determinación y pasión por la ciencia han inspirado a generaciones de científicas. Lise Meitner es un símbolo perdurable de la perseverancia femenina y el impacto duradero que las mujeres pueden tener en la ciencia.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/lise-meitner.jpg",
+    "id": "especialista-rpa",
+    "name": "Especialista em Automatização de Processos (RPA)",
+    "shortDescription": "Responsável por automatizar tarefas e processos repetitivos utilizando ferramentas de RPA.",
+    "description": "A pessoa especialista em Automatização de Processos (RPA) se destaca na automatização de tarefas rotineiras, utilizando ferramentas como UiPath, Automation Anywhere e Blue Prism. Colabora de maneira abrangente, identificando oportunidades de automação e implementando soluções eficazes. Sua habilidade em desenvolver fluxos de trabalho automatizados é vital para impulsionar a produtividade e reduzir erros nas operações empresariais. Integrando tecnologia com eficiência, a pessoa especialista desempenha um papel crucial na otimização de processos, contribuindo significativamente para a eficácia operacional e o sucesso organizacional.",
+    "imageUrl": "https://github.com/FabineSpecian/SAP012-dataverse/blob/main/src/Carreiras/Especialista%20em%20Automatiza%C3%A7%C3%A3o%20de%20Processos%20de%20Automa%C3%A7%C3%A3o.jpg?raw=true",
     "facts": {
-      "yearOfBirth": "1878",
-      "yearOfDeath": "1968",
-      "birthPlace": "Viena, Austria",
-      "mainField": "Física"
+      "formacaoSugerida": "Ciência da Computação, Engenharia de Computação",
+      "techSkills": "UiPath, Automation Anywhere, Blue Prism",
+      "softSkills": "Análise crítica, Resolução de problemas",
+      "mediaSalarialJr": "R$ 5.500 (Estimativa até 2022)"
     },
-    "extraInfo": {
-      "imageSource": "https://www.bing.com/images/create/lise-meitner-in-nuclear-physics-lab-in-19502c-retro/651196e6bbcb4009950e9955c2199760"
-    }
+
   },
+
   {
-    "id": "sau-lan-wu",
-    "name": "Sau Lan Wu",
-    "shortDescription": "Física de partículas, contribuyó a experimentos clave en física de alta energía.",
-    "description": "Física experimental sinoamericana, ha sido una fuerza motriz en la física de partículas. Destacó en experimentos en el CERN y lideró investigaciones cruciales, como el descubrimiento del quark c, que expandieron nuestro entendimiento de la estructura fundamental de la materia. Wu superó desafíos en una disciplina dominada por hombres y ha sido un faro de inspiración para científicas de todo el mundo. Sau Lan Wu es un ejemplo de excelencia científica y de cómo las mujeres pueden dejar huella en la investigación de vanguardia.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/sau-lan-wu.jpg",
+    "id": "especialista-cloud",
+    "name": "Especialista em Cloud Computing",
+    "shortDescription": "Responsável por projetar, implementar e gerenciar soluções baseadas em tecnologias de computação em nuvem.",
+    "description": "A pessoa Especialista em Cloud Computing desempenha um papel crucial na transição e otimização de infraestruturas para ambientes de nuvem. Esta profissional projeta, implementa e gerencia soluções baseadas em tecnologias de computação em nuvem, como AWS, Azure ou Google Cloud. Colaborando com equipes de desenvolvimento e operações, a pessoa Especialista em Cloud contribui para a escalabilidade, segurança e eficiência das aplicações. Sua habilidade em adotar melhores práticas de arquitetura de nuvem e gerenciar recursos na nuvem é vital para o sucesso na era da computação em nuvem.",
+    "imageUrl": "https://github.com/FabineSpecian/SAP012-dataverse/blob/main/src/Carreiras/Especialista%20em%20Cloud%20Computing.jpg?raw=true",
     "facts": {
-      "yearOfBirth": "1940",
-      "birthPlace": "Hong Kong, China",
-      "mainField": "Física de Partículas"
+      "formacaoSugerida": "Engenharia de Computação, Ciência da Computação",
+      "techSkills": "AWS, Azure, Google Cloud",
+      "softSkills": "Pensamento analítico, Colaboração",
+      "mediaSalarialJr": "R$ 6.500 (Estimativa até 2022)"
     },
-    "extraInfo": {
-      "imageSource": "https://repository.aip.org/islandora/object/nbla%3A315195"
-    }
+
   },
+
   {
-    "id": "jocelyn-bell-burnell",
-    "name": "Jocelyn Bell Burnell",
-    "shortDescription": "Astrónoma y astrofísica, co-descubridora de los púlsares.",
-    "description": "Astrofísica británica, es una figura extraordinaria en la ciencia. Durante su doctorado, hizo un descubrimiento revolucionario al detectar los primeros púlsares, estrellas de neutrones altamente magnetizadas que emiten pulsos regulares de radiación. A pesar de que su asesor recibió el Premio Nobel por este descubrimiento, Bell Burnell se ha convertido en un símbolo de perseverancia y contribución de las mujeres a la astronomía. Su carrera distinguida y su activismo en favor de la diversidad de género en la ciencia han inspirado a generaciones futuras de científicas. Jocelyn Bell Burnell es un ejemplo de valentía y excelencia científica.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/jocelyn-bell-burnell.jpg",
+    "id": "dev-jogos",
+    "name": "Pessoa Desenvolvedora de Jogos",
+    "shortDescription": "Responsável por criar jogos eletrônicos, desde a programação até a implementação de elementos visuais.",
+    "description": "A pessoa Desenvolvedora de Jogos desempenha um papel crucial na indústria de entretenimento, construindo experiências interativas envolventes. Especializada na programação e implementação de elementos visuais para jogos eletrônicos, esta profissional colabora ativamente com designers, artistas e especialistas em áudio, contribuindo para a concepção de mundos virtuais distintos. Sua expertise na utilização de engines de jogos, como Unity e Unreal Engine, é vital para o sucesso na criação de jogos inovadores. Transformando conceitos criativos em realidade virtual, a pessoa Desenvolvedora de Jogos desafia constantemente os limites da imaginação na busca pela excelência na indústria de jogos.",
+    "imageUrl": "https://github.com/FabineSpecian/SAP012-dataverse/blob/main/src/Carreiras/Desenvolvedora%20de%20Jogos.jpg?raw=true",
     "facts": {
-      "yearOfBirth": "1943",
-      "birthPlace": "Belfast, Reino Unido",
-      "mainField": "Astronomía, Astrofísica"
+      "formacaoSugerida": "Design de Jogos, Engenharia de Computação",
+      "techSkills": "Unity, Unreal Engine, Programação de Jogos",
+      "softSkills": "Criatividade, Colaboração",
+      "mediaSalarialJr": "R$ 5.800 (Estimativa até 2022)"
     },
-    "extraInfo": {
-      "imageSource": "https://womeninscienceweadmire.icfo.eu/wiswa-2/jocelyn-bell/"
-    }
+
   },
+
   {
-    "id": "dorothy-crowfoot-hodgkin",
-    "name": "Dorothy Crowfoot Hodgkin",
-    "shortDescription": "Química, ganadora del Premio Nobel de Química.",
-    "description": "Química británica, es una figura icónica en la ciencia que superó las barreras de género de su época. Su trabajo revolucionario en la cristalografía de rayos X permitió determinar la estructura de importantes biomoléculas, como la penicilina, la vitamina B12 y la insulina. Fue galardonada con el Premio Nobel de Química en 1964, siendo la tercera mujer en recibir este prestigioso reconocimiento. Hodgkin no solo fue una científica excepcional, sino también una defensora de la igualdad de género en la ciencia, allanando el camino para futuras generaciones de científicas y dejando un legado duradero en la investigación y la equidad.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/dorothy-crowfoot-hodgkin.jpg",
+    "id": "engenheira-devops",
+    "name": "Pessoa Engenheira de DevOps",
+    "shortDescription": "Responsável por integrar desenvolvimento e operações, automatizando processos e garantindo a entrega contínua.",
+    "description": "A pessoa Engenheira de DevOps desempenha um papel vital na integração eficiente entre desenvolvimento e operações. Automatiza processos, implementa práticas de entrega contínua e gerencia infraestruturas como código. Colaborando com desenvolvedores e administradores de sistemas, busca otimizar eficiência, confiabilidade e escalabilidade de sistemas e aplicações. Sua habilidade em implementar pipelines de CI/CD, gerenciar ambientes de nuvem e adotar práticas ágeis é essencial para o sucesso na entrega de software de alta qualidade, destacando-se como elemento fundamental na busca pela excelência operacional e inovação contínua.",
+    "imageUrl": "https://github.com/FabineSpecian/SAP012-dataverse/blob/main/src/Carreiras/Engenheira%20Devops.jpg?raw=true",
     "facts": {
-      "yearOfBirth": "1910",
-      "yearOfDeath": "1994",
-      "birthPlace": "El Cairo, Egipto / Shipston-on-Stour, Reino Unido",
-      "mainField": "Química"
+      "formacaoSugerida": "Engenharia de Software, Ciência da Computação",
+      "techSkills": "CI/CD, Docker, Kubernetes",
+      "softSkills": "Colaboração, Resolução de problemas",
+      "mediaSalarialJr": "R$ 6.200 (Estimativa até 2022)"
     },
-    "extraInfo": {
-      "imageSource": "https://www.some.ox.ac.uk/news/jan-royall-why-we-must-champion-dorothy-hodgkin-for-the-50-note/"
-    }
+
   },
+
   {
-    "id": "marie-curie",
-    "name": "Marie Curie",
-    "shortDescription": "Física y química, ganadora de dos Premios Nobel.",
-    "description": "física y química de origen polaco y nacionalizada francesa, es una de las figuras más icónicas en la historia de la ciencia. Ganadora de dos premios Nobel (Física en 1903 y Química en 1911), Curie realizó investigaciones fundamentales sobre la radiactividad y el descubrimiento de los elementos radio y polonio. Su dedicación y valentía en la investigación científica, a pesar de los desafíos de la discriminación de género y los riesgos de la radiación, la convierten en un modelo a seguir para científicas de todo el mundo.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/marie-curie.jpg",
+    "id": "project-manager",
+    "name": "Project Manager",
+    "shortDescription": "Responsável por liderar e coordenar projetos de tecnologia, garantindo sua entrega dentro do prazo e orçamento.",
+    "description": "Líder de projetos tecnológicos, a pessoa Project Manager desempenha um papel central na liderança e coordenação, assegurando a entrega bem-sucedida dentro de prazos e orçamentos. Além de definir metas, alocar recursos e gerenciar prazos, este profissional colabora com equipes multidisciplinares, mantendo o foco na eficiência e qualidade. Sua habilidade em comunicação eficaz, gestão proativa de riscos e tomada de decisões estratégicas é vital para o sucesso na execução de projetos tecnológicos complexos. A pessoa Project Manager não apenas gerencia, mas inspira a excelência, garantindo que cada projeto alcance seus objetivos e supere as expectativas.",
+    "imageUrl": "https://github.com/FabineSpecian/SAP012-dataverse/blob/main/src/Carreiras/Project%20Manager.jpg?raw=true",
     "facts": {
-      "yearOfBirth": "1867",
-      "yearOfDeath": "1934",
-      "birthPlace": "Varsovia, Polonia",
-      "mainField": "Física y Química"
+      "formacaoSugerida": "Administração, Engenharia de Produção",
+      "techSkills": "Gestão de Projetos, Comunicação, Liderança",
+      "softSkills": "Comunicação, Tomada de decisão",
+      "mediaSalarialJr": "R$ 7.000 (Estimativa até 2022)"
     },
-    "extraInfo": {
-      "imageSource": "https://www.historyextra.com/period/first-world-war/life-of-the-week-marie-curie/"
-    }
+
   },
+
   {
-    "id": "marjory-stephenson",
-    "name": "Marjory Stephenson",
-    "shortDescription": "Microbióloga y bioquímica, investigó en enzimología.",
-    "description": "Bioquímica británica, brilló como científica en una época en la que las mujeres enfrentaban obstáculos muy significativos en la investigación científica. Su trabajo pionero en microbiología, enzimología y bioquímica contribuyó al entendimiento de procesos fundamentales en la vida. Fue una de las primeras mujeres en ser elegida miembro de la Royal Society, un reconocimiento a su destacada contribución a la ciencia. Además, fue una mentora y defensora de las mujeres en la ciencia, inspirando y allanando el camino para futuras generaciones.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/marjory-stephenson.jpg",
+    "id": "product-owner",
+    "name": "Product Owner",
+    "shortDescription": "Responsável por definir e priorizar funcionalidades do produto, garantindo alinhamento com objetivos de negócio.",
+    "description": "A pessoa Product Owner desempenha um papel muito importante na definição e priorização de funcionalidades de um determinado produto.Esta profissional colabora com stakeholders para compreender requisitos, definir user stories e garantir o alinhamento com objetivos de negócio.Colaborando estreitamente com equipes de desenvolvimento, a pessoa Product Owner mantém o foco na entrega de valor aos usuários finais.Sua habilidade em priorizar tarefas, tomar decisões de forma rápida e manter uma visão estratégica contribui para o sucesso na criação de produtos bem - sucedidos.",
+    "imageUrl": "https://github.com/FabineSpecian/SAP012-dataverse/blob/main/src/Carreiras/Product%20Owner.jpg?raw=true",
     "facts": {
-      "yearOfBirth": "1885",
-      "yearOfDeath": "1948",
-      "birthPlace": "Londres, Reino Unido",
-      "mainField": "Química, Microbiología, Bioquímica"
+      "formacaoSugerida": "Administração, Marketing, Engenharia de Produção",
+      "techSkills": "Gestão de Produtos, Priorização, Comunicação",
+      "softSkills": "Visão estratégica, Tomada de decisão",
+      "mediaSalarialJr": "R$ 7.200 (Estimativa até 2022)"
     },
-    "extraInfo": {
-      "imageSource": "https://microbiologysociety.org/grants-prizes/all-prizes-and-competitions-/prize-lectures/marjory-stephenson-prize-lecture/marjory-stephenson-a-short-history.html"
-    }
+
   },
+
   {
-    "id": "rosalind-franklin",
-    "name": "Rosalind Franklin",
-    "shortDescription": "Química y cristalógrafa, contribuyó a la comprensión de la estructura del ADN.",
-    "description": "Química y cristalógrafa británica, destacó en un campo dominado por hombres y su contribución a la ciencia es innegable. Sus investigaciones pioneras en la cristalografía de rayos X fueron fundamentales para revelar la estructura del ADN en forma de doble hélice, un hito crucial en la biología molecular. A pesar de que su trabajo inicial fue subestimado, su determinación y habilidad científica allanaron el camino para futuros avances en genética y biología. Franklin es un ejemplo inspirador de cómo las mujeres pueden sobresalir en la ciencia, dejando un legado duradero en la investigación y la igualdad de género.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/rosalind-franklin.jpg",
+    "id": "product-manager",
+    "name": "Product Manager",
+    "shortDescription": "Responsável por liderar o ciclo de vida de produtos, desde o conceito até a entrega e otimização contínua.",
+    "description": "A pessoa Product Manager desempenha um papel muito estratégico no ciclo de vida de produtos, liderando desde o conceito até a entrega e otimização contínua.Esta profissional colabora com equipes multidisciplinares para definir a visão do produto, desenvolver roadmaps e garantir a satisfação dos clientes. Focando em inovação e resultados, a pessoa Product Manager busca constantemente melhorias e ajustes para maximizar o sucesso do produto no mercado.Sua habilidade em liderança, gestão estratégica e compreensão do mercado contribui para o êxito de produtos inovadores.",
+    "imageUrl": "https://github.com/FabineSpecian/SAP012-dataverse/blob/main/src/Carreiras/Product%20Manager.jpg",
     "facts": {
-      "yearOfBirth": "1920",
-      "yearOfDeath": "1958",
-      "birthPlace": "Londres, Reino Unido",
-      "mainField": "Química, Cristalografía"
+      "formacaoSugerida": "Administração, Marketing, Engenharia de Produção",
+      "techSkills": "Gestão de Produtos, Liderança, Visão estratégica",
+      "softSkills": "Comunicação, Inovação",
+      "mediaSalarialJr": "R$ 7.500 (Estimativa até 2022)"
     },
-    "extraInfo": {
-      "imageSource": ""
-    }
+
   }
 ];
