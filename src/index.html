@@ -1,11 +1,47 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta charset="utf-8">
-    <title>Dataverse</title>
-    <link rel="stylesheet" href="style.css" />
-  </head>
-  <body>
-    <script src="main.js" type="module"></script>
-  </body>
+
+<head>
+  <meta charset="utf-8">
+  <title>Dataverse</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+
+<header>
+  <h1>imagem do topo</h1>
+  <h2>inrodução ao conteúdo do site</h2>
+</header>
+
+<body>
+  <main id="root">
+    <!--criar filtros-->
+    <select data-testid="selecionar-filtro" name="Nacionalidade">
+      <label for="ordenar"></label>
+      <select data-testid="select-sort" name="ordenar" id="nome"></select>
+      <option value="brasileira">Brasileira</option>
+      <option value="norteAmericara">Norte-Americana</option>
+    </select>
+    <!--repetir o exemplo para os outro filtros-->
+
+
+
+    <!--sessão para ordenação-->
+    <section id="ordem">
+      <label for="ordenar"></label>
+      <select data-testid="select-sort" name="ordenar" id="nomeDaCelebridade"></select>
+      <option value="asc">A - Z</option>
+      <option value="desc">Z - A</option>
+    </section>
+
+    <!--criar botão de limpar-->
+    <button data-testid="limpar">Limpar</button>
+
+  </main>
+  <img src="images/dinosaur.jpg" alt="Curiosidades sobre..." />
+
+  <script src="main.js" type="module"></script>
+</body>
+
+<footer>Criado por <strong>Bia Carneiro</strong> e <strong>Selly Lima</strong>.</footer>
+
 </html>
